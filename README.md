@@ -5,10 +5,9 @@
 # Quick start
 
 * install php library https://github.com/mgdm/Mosquitto-PHP
-* create account in https://pushed.co/
-* create your configuration https://github.com/andrisdru/php_mqtt_pushed/blob/master/example.php
-* run
-* php example.php
+* create account in https://pushed.co/ , get access keys, register devices etc.
+* edit your configuration https://github.com/andrisdru/php_mqtt_pushed/blob/master/example.php
+* run in command line  $php example.php
 
 
 
