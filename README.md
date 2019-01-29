@@ -1,6 +1,6 @@
 # php_mqtt_pushed 
 
-* MQTT gateway to pushed service.
+* MQTT gateway to https://pushed.co push message service.
 
 # Quick start
 
