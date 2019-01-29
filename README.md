@@ -2,7 +2,7 @@
 
 * MQTT gateway to pushed service.
 
-#Quick start
+# Quick start
 
 * install php library https://github.com/mgdm/Mosquitto-PHP
 * create account in https://pushed.co/
