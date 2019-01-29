@@ -50,11 +50,11 @@ public $parameters;
 	
 		 	    /*
 		 		echo "-------------------------------\n";
-		 	    echo "lastval:" . $this->topics[$ai]["lastval"] . "\n";
-		 	    echo "\$c:" . $c . "\n";
+		 	        echo "lastval:" . $this->topics[$ai]["lastval"] . "\n";
+		 	        echo "\$c:" . $c . "\n";
 		 		echo "\$topic once:".$topic["once"] . "\n";
 		 		echo "-------------------------------\n";
-		 		*/
+		 	    */
 		 		
 		 		
 		 		if ($this->topics[$ai]["lastval"] != $c && $topic["once"] == true) {
@@ -96,7 +96,7 @@ public $parameters;
                           'content'=>$content . $value
                           );
          
-  $postvars = '';
+    $postvars = '';
     foreach($fields as $key=>$value) {
     $postvars .= $key . "=" . $value . "&";
   }
